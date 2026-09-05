@@ -1,9 +1,4 @@
 
-
-
-> Criando projetos, aprendendo no caminho e tentando não quebrar tudo.# joaolucasgandia
-
-
 # 👋 joaolucasgandia
 
 ### 💻 Estudante • Programador • Criador
@@ -26,4 +21,5 @@ Gosto de transformar ideias em código, testar coisas novas e descobrir como faz
 ⚡ JavaScript
 🔧 Git / GitHub
 
-<img width="928" height="1695" alt="image" src="https://github.com/user-attachments/assets/60e0e343-c303-4103-981e-a967ca8c84c0" />
+<img width="928" height="1695" alt="image" src="https://github.com/user-attachments/assets/b14f3e29-579d-4969-b946-e179557634ab" />
+
