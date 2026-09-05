@@ -13,13 +13,7 @@ Sou um estudante aprendendo programação e criando meus próprios projetos.
 
 Gosto de transformar ideias em código, testar coisas novas e descobrir como fazer algo funcionar.
 
-```text
-🎓 Estudante de programação
-🐍 Python
-🍶 Flask
-🌐 HTML / CSS
-⚡ JavaScript
-🔧 Git / GitHub
+
 
 
 
