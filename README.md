@@ -1,5 +1,5 @@
 
-# 👋 joaolucasgandia
+# 👋Olá sou  João Lucas
 
 ### 💻 Estudante • Programador • Criador
 
