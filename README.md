@@ -23,6 +23,6 @@ Gosto de transformar ideias em código, testar coisas novas e descobrir como faz
 
 
 
-<img width="540" height="540" alt="image" src="https://github.com/user-attachments/assets/b183df10-2a4f-4f01-a52f-ba3bcff9fff3" />
+
 
 
