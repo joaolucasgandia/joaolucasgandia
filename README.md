@@ -17,4 +17,5 @@ Gosto de transformar ideias em código, testar coisas novas e descobrir como faz
 
 
 
-https://gerarmemes.s3.us-east-2.amazonaws.com/memes/391a4650.jpg?utm_source=chatgpt.com
+<img width="443" height="451" alt="image" src="https://github.com/user-attachments/assets/82dcf8f7-6c1a-4071-a56a-62f940e31e41" />
+
